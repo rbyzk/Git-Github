@@ -40,8 +40,7 @@ Each topic is explained through real-world examples and terminal-ready command s
 Clone the repo to your machine:
 
 ```bash
-git clone https://github.com/rbyzk/git-github-notes.git
-cd git-github-notes
+git clone https://github.com/rbyzk/Git-Github.git
    ```
 
 Explore the folders and notebooks for statistical walkthroughs. Each file is annotated with explanations and instructions.
