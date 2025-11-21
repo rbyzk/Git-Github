@@ -55,6 +55,7 @@ I'm Beyza Küçük — a Data Scientist & Data Analyst, passionate about buildin
 
 ## 🌐 Let's connect and grow together in data:
 
+
 **GitHub** [github.com/rbyzk](https://github.com/rbyzk)
 
 **Kaggle** [kaggle.com/beyzakucuk](https://www.kaggle.com/beyzakucuk)
